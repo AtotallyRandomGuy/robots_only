@@ -1,0 +1,33 @@
+{
+    "name": "Gabe",
+    "class": "Warrior",
+    "hp": 88,
+    "max_hp": 100,
+    "attack": 18,
+    "defense": 5,
+    "level": 1,
+    "exp": 37,
+    "skills": [
+        "Power Strike",
+        "Shield Bash"
+    ],
+    "inventory": [
+        {
+            "name": "Winter Coat",
+            "description": "Protects against cold weather debuffs.",
+            "type": "misc"
+        },
+        {
+            "name": "Fur Pelt",
+            "description": "Can be sold or traded.",
+            "type": "misc"
+        },
+        {
+            "name": "Winter Coat",
+            "description": "Protects against cold weather debuffs.",
+            "type": "passive"
+        }
+    ],
+    "gold": 80,
+    "location": "Winter Forest"
+}
